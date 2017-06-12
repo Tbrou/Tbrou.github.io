@@ -21,6 +21,9 @@ dario:
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
+gems:
+  - jekyll-sitemap
+
 # Dependencies
 markdown: kramdown
 highlighter: rouge
