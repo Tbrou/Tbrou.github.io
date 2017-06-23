@@ -7,7 +7,7 @@ dario:
   # an avatar or logo (optional)
   logo: "/images/chklst.png"
   # author will appear under the avatar (optional)
-  author: "Sécurité et Vie Privée"
+  author: "Sécurité<br> et Vie Privée"
   # tagline will appear under the title (optional)
   tagline: <a href='https://dario.com'>English</a>
   # if include_content is true, the contents of the content.html include will be
